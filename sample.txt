@@ -1,3 +1,7 @@
 硈礥常来Git㏑
 add эま
+<<<<<<< HEAD
 pull 眔环狠计沮畐ず甧200200
+=======
+commit 癘魁ま篈
+>>>>>>> d3f768bf426a90d7f4bc8d0c4e3b030ff61fd82f
