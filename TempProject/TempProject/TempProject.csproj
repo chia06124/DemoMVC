@@ -4966,6 +4966,7 @@
     <Content Include="Content\assets\vendor\nucleo\fonts\nucleo-icons.woff" />
     <Content Include="Content\assets\vendor\nucleo\fonts\nucleo-icons.woff2" />
     <Content Include="Content\assets\vendor\prismjs\components.json" />
+    <None Include="Properties\PublishProfiles\PrjAzureDemo - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
