@@ -40,7 +40,8 @@ namespace TempProject
                       "~/Content/vendor/fontawesome-free/css/all.css",
                       "~/Content/css/sb-admin-2.css"));
             ////1
-            BundleTable.EnableOptimizations = false;
+            //沒有壓縮過的CSS
+            BundleTable.EnableOptimizations = true ;
 
             ////2
             //bundles.Add(new StyleBundle("~/Content/css/freeTwo1").Include(
