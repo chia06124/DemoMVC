@@ -259,6 +259,5 @@ D:\Git_Local\TempProject\TempProject\bin\zh-Hant\Microsoft.Owin.Security.Faceboo
 D:\Git_Local\TempProject\TempProject\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
 D:\Git_Local\TempProject\TempProject\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
 D:\Git_Local\TempProject\TempProject\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
-D:\Git_Local\TempProject\TempProject\obj\Debug\TempProject.csprojResolveAssemblyReference.cache
 D:\Git_Local\TempProject\TempProject\obj\Debug\TempProject.dll
 D:\Git_Local\TempProject\TempProject\obj\Debug\TempProject.pdb
