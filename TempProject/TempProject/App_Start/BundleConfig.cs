@@ -37,7 +37,7 @@ namespace TempProject
                       "~/Content/site.css"));
             ///1
             bundles.Add(new StyleBundle("~/Content/css/free").Include(
-                      "~/Content/vendor/fontawesome-free/css/all.min.css",
+                      "~/Content/vendor/fontawesome-free/css/all.css",
                       "~/Content/css/sb-admin-2.css"));
             ////1
 
