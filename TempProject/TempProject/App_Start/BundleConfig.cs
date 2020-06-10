@@ -40,7 +40,7 @@ namespace TempProject
                       "~/Content/vendor/fontawesome-free/css/all.css",
                       "~/Content/css/sb-admin-2.css"));
             ////1
-
+            BundleTable.EnableOptimizations = false;
 
             ////2
             //bundles.Add(new StyleBundle("~/Content/css/freeTwo1").Include(
@@ -50,7 +50,7 @@ namespace TempProject
             //bundles.Add(new StyleBundle("~/Content/css/freeTwo3").Include(
             //         "~/Content/assets/css/argon.css"));
             ////2
-            
+
         }
     }
 }
